@@ -1,5 +1,8 @@
-echo "venv/
+venv/
 *.pyc
 __pycache__/
+.DS_Store
+*.ipynb_checkpoints/
 *.csv
 .DS_Store" > .gitignore
+*.json
